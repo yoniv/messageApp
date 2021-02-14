@@ -7,7 +7,7 @@ class Migration(migrations.Migration):
 
     dependencies = [
         ('auth', '0011_update_proxy_permissions'),
-        ('admin', '0004_auto_20210213_1831'),
+        # ('admin', '0004_auto_20210213_1831'),
         ('messageApp_api', '0004_auto_20210213_1829'),
     ]
 
